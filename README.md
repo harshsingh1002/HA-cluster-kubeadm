@@ -83,7 +83,7 @@ Log in to all the 4 machines as described above
 Switch as root - sudo -i
 
 Update the repositories
-
+#TESTING AGAIN
 apt-get update
 Turn off swap
 swapoff -a 
